@@ -1,0 +1,13 @@
+# Runtime dependencies for the supcap-source-aware pipeline.
+# Tested on Python 3.10.  Loose version constraints; pinned to major/minor.
+
+numpy>=1.26,<3
+pandas>=2.1,<3
+scipy>=1.11,<2
+matplotlib>=3.8,<4
+seaborn>=0.13,<0.15
+scikit-learn>=1.4,<2
+lightgbm>=4.3,<5
+xgboost>=2.0,<4
+shap>=0.44,<1
+Pillow>=10.0,<12

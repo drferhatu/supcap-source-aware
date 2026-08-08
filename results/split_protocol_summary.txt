@@ -1,0 +1,12 @@
+Random_mean_R2: 0.411
+Random_CI95_R2: [-0.116, 0.669]
+Random_mean_MAE: 38.926
+Random_CI95_MAE: [31.044, 47.285]
+Random_mean_RMSE: 49.064
+Random_CI95_RMSE: [36.969, 64.834]
+Group_global_R2: -1.219
+Group_CI95_R2: [-1.793, -0.786]
+Group_global_MAE: 81.643
+Group_CI95_MAE: [73.899, 89.796]
+Group_global_RMSE: 99.035
+Group_CI95_RMSE: [90.742, 107.400]

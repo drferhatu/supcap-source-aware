@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# Notebook artefacts
+.ipynb_checkpoints/
+
+# Local script outputs that are regenerable
+images/
+
+# OS / editor cruft
+.DS_Store
+*.swp
+
+# LaTeX build artefacts (not expected here, but shipped as a safety net)
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
