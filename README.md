@@ -4,7 +4,7 @@ Companion code and derived data for the paper:
 
 > **Source-Aware Materials Informatics for Biomass-Derived Carbon Electrodes: Predicting Supercapacitor Capacitance from Precursor and Process Descriptors**
 > Ferhat Uçar, Nida Katı, Mohammed Abduljalil Saeed Ahmed
-> *Physica Scripta* (IOP Publishing), 2026. Manuscript ID `PHYSSCR-153869` (under review).
+> *Physica Scripta* (IOP Publishing), 2026. Manuscript ID `PHYSSCR-153869` (accepted - early access - online).
 
 The repository contains the full modelling pipeline used to produce the results reported in the manuscript: dataset cleaning, source-aware validation, repeated-split stability envelope, paired Wilcoxon significance testing, and SHAP interpretation for the best-performing feature combination.
 
