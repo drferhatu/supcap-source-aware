@@ -92,7 +92,7 @@ Once the article is assigned a DOI, please cite the paper directly. A placeholde
   author  = {U\c{c}ar, Ferhat and Kat\i, Nida and Ahmed, Mohammed Abduljalil Saeed},
   journal = {Physica Scripta},
   year    = {2026},
-  note    = {In review, PHYSSCR-153869}
+  note    = {Accepted-Avaliable Online, PHYSSCR-153869}
 }
 ```
 
